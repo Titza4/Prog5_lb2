@@ -1,5 +1,5 @@
 # Лабораторная работа №2. Openweatherapi
-## Написать реализацию функции  ```get_weather_data(place, api_key=None)``` (в модуле ```getweatherdata```), в которой необходимо получить данные о погоде с сайта https://openweathermap.org/. 
+Написать реализацию функции  ```get_weather_data(place, api_key=None)``` (в модуле ```getweatherdata```), в которой необходимо получить данные о погоде с сайта https://openweathermap.org/. 
 
 Функция должна возвращать объект в формате JSON, включающий:
  -информацию о названии города (в контексте openweathermap);
